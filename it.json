@@ -1,1 +1,6 @@
-{}
+{
+  "example":"Example",
+  "dog": "Dog",
+  "cat": "Cat",
+  "bird": "Bird"
+}
