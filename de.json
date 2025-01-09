@@ -1,3 +1,6 @@
 {
-    "example": "Beispiel"
+  "example":"Example",
+  "dog": "Dog",
+  "cat": "Cat",
+  "bird": "Bird"
 }
